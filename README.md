@@ -1,4 +1,4 @@
-# Android-Studio_Google-Map-with-Search-Bar
+# Android Studio_Google Map with Search Bar
 The Project is implement on Fragment with Google Map
 
 >API Require
