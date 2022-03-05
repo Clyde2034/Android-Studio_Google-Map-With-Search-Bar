@@ -7,7 +7,7 @@ The Project is implement on Fragment with Google Map
 >>Places API
 
 >UI and Java Code
->>UI：activity_main.xml、fragment_map.xml
+>>UI：activity_main.xml、fragment_map.xml  
 >>Java：MainActivity.java、MapFragment.java
 
 
