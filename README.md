@@ -12,9 +12,9 @@ The Project is implement on Fragment with Google Map
 
 
 <p align="center">
-  <img align="left" src="https://user-images.githubusercontent.com/41913354/156886216-68dca4b4-ff69-4e24-88b3-442605bc1157.png" width="300"/>
-  <img align="center" src="https://user-images.githubusercontent.com/41913354/156886292-f168fddb-1746-40ec-a073-f6f563806611.png" width="300"/>
-  <img align="right" src="https://user-images.githubusercontent.com/41913354/156886646-b3628b4b-1259-4395-8d61-741d4c3a1169.png" width="300"/>
+  <img align="left" src="https://user-images.githubusercontent.com/41913354/156886216-68dca4b4-ff69-4e24-88b3-442605bc1157.png" width="250"/>
+  <img align="center" src="https://user-images.githubusercontent.com/41913354/156886292-f168fddb-1746-40ec-a073-f6f563806611.png" width="250"/>
+  <img align="right" src="https://user-images.githubusercontent.com/41913354/156886646-b3628b4b-1259-4395-8d61-741d4c3a1169.png" width="250"/>
 </p>
 
 
