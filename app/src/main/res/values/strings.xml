@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Autocomplete</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="api_key">AIzaSyC30522yFCSX2hRN8GZfOtxM0t_2mpOcvI</string>
+</resources>
