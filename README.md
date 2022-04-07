@@ -39,7 +39,21 @@ The Project is implement on Fragment with Google Map
             
     //...
     </application>   
--------------------------------------------------------------------------------------------
+```
+
+## build.gradle(Project Level) && build.gradle(Module Level)
+```
+build.gradle(Project Level)
+plugins{
+    //...
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin' version '2.0.1' apply false
+}
+----------------------------------------------------------------------------
+build.gradle(Module Level)
+plugins{
+    //...
+    id 'com.google.android.libraries.mapsplatform.secrets-gradle-plugin'
+}
 dependencies {
     //...
     implementation 'com.google.android.gms:play-services-maps:18.0.2' //mapView
